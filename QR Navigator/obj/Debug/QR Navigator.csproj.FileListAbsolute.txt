@@ -1,0 +1,22 @@
+D:\l505gs\win p 7.5 SDK\QR Navigator\QR Navigator\Bin\Debug\ApplicationIcon.png
+D:\l505gs\win p 7.5 SDK\QR Navigator\QR Navigator\Bin\Debug\Background.png
+D:\l505gs\win p 7.5 SDK\QR Navigator\QR Navigator\Bin\Debug\QR Navigator.dll
+D:\l505gs\win p 7.5 SDK\QR Navigator\QR Navigator\Bin\Debug\QR Navigator.pdb
+D:\l505gs\win p 7.5 SDK\QR Navigator\QR Navigator\Bin\Debug\AppManifest.xaml
+D:\l505gs\win p 7.5 SDK\QR Navigator\QR Navigator\Bin\Debug\QR Navigator.xap
+D:\l505gs\win p 7.5 SDK\QR Navigator\QR Navigator\Bin\Debug\Microsoft.Phone.Controls.dll
+D:\l505gs\win p 7.5 SDK\QR Navigator\QR Navigator\Bin\Debug\Silverlight_ZXing_Core.dll
+D:\l505gs\win p 7.5 SDK\QR Navigator\QR Navigator\Bin\Debug\Microsoft.Phone.Controls.xml
+D:\l505gs\win p 7.5 SDK\QR Navigator\QR Navigator\Bin\Debug\Silverlight_ZXing_Core.pdb
+D:\l505gs\win p 7.5 SDK\QR Navigator\QR Navigator\obj\Debug\App.g.cs
+D:\l505gs\win p 7.5 SDK\QR Navigator\QR Navigator\obj\Debug\Browser.g.cs
+D:\l505gs\win p 7.5 SDK\QR Navigator\QR Navigator\obj\Debug\MainPage.g.cs
+D:\l505gs\win p 7.5 SDK\QR Navigator\QR Navigator\obj\Debug\NaVigator.g.cs
+D:\l505gs\win p 7.5 SDK\QR Navigator\QR Navigator\obj\Debug\saveItLater.g.cs
+D:\l505gs\win p 7.5 SDK\QR Navigator\QR Navigator\obj\Debug\viewQrHistory.g.cs
+D:\l505gs\win p 7.5 SDK\QR Navigator\QR Navigator\obj\Debug\QR Navigator.g.resources
+D:\l505gs\win p 7.5 SDK\QR Navigator\QR Navigator\obj\Debug\QR Navigator.dll
+D:\l505gs\win p 7.5 SDK\QR Navigator\QR Navigator\obj\Debug\QR Navigator.pdb
+D:\l505gs\win p 7.5 SDK\QR Navigator\QR Navigator\obj\Debug\XapCacheFile.xml
+D:\l505gs\win p 7.5 SDK\QR Navigator\QR Navigator\obj\Debug\QR Navigator.csprojResolveAssemblyReference.cache
+D:\l505gs\win p 7.5 SDK\QR Navigator\QR Navigator\obj\Debug\QrGen.g.cs

@@ -1,0 +1,35 @@
+﻿<xapCache source="D:\l505gs\win p 7.5 SDK\QR Navigator\QR Navigator\Bin\Debug\QR Navigator.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="6/11/2014 12:10:23 AM">
+  <file source="D:\l505gs\win p 7.5 SDK\QR Navigator\QR Navigator\Bin\Debug\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="12/5/2013 9:56:55 PM" />
+  <file source="D:\l505gs\win p 7.5 SDK\QR Navigator\QR Navigator\Background.png" archivePath="Background.png" lastWriteTime="11/30/2013 4:07:59 PM" />
+  <file source="D:\l505gs\win p 7.5 SDK\QR Navigator\QR Navigator\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="11/30/2013 4:07:22 PM" />
+  <file source="D:\l505gs\win p 7.5 SDK\QR Navigator\QR Navigator\obj\Debug\QR Navigator.dll" archivePath="QR Navigator.dll" lastWriteTime="6/11/2014 12:10:22 AM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v7.1\Libraries\Silverlight\Microsoft.Phone.Controls.dll" archivePath="Microsoft.Phone.Controls.dll" lastWriteTime="7/6/2012 1:40:16 AM" />
+  <file source="D:\l505gs\win p 7.5 SDK\ScannerDemo\lib\Silverlight_ZXing_Core.dll" archivePath="Silverlight_ZXing_Core.dll" lastWriteTime="7/21/2011 5:59:18 PM" />
+  <file source="D:\l505gs\win p 7.5 SDK\QR Navigator\QR Navigator\Icon\appbar.back.rest.png" archivePath="Icon\appbar.back.rest.png" lastWriteTime="11/27/2013 10:21:36 PM" />
+  <file source="D:\l505gs\win p 7.5 SDK\QR Navigator\QR Navigator\Icon\appbar.book.hardcover.open.png" archivePath="Icon\appbar.book.hardcover.open.png" lastWriteTime="11/27/2013 10:21:36 PM" />
+  <file source="D:\l505gs\win p 7.5 SDK\QR Navigator\QR Navigator\Icon\appbar.cancel.rest.png" archivePath="Icon\appbar.cancel.rest.png" lastWriteTime="4/18/2014 2:41:44 PM" />
+  <file source="D:\l505gs\win p 7.5 SDK\QR Navigator\QR Navigator\Icon\appbar.check.rest.png" archivePath="Icon\appbar.check.rest.png" lastWriteTime="11/27/2013 10:21:36 PM" />
+  <file source="D:\l505gs\win p 7.5 SDK\QR Navigator\QR Navigator\Icon\appbar.email.png" archivePath="Icon\appbar.email.png" lastWriteTime="11/27/2013 10:21:36 PM" />
+  <file source="D:\l505gs\win p 7.5 SDK\QR Navigator\QR Navigator\Icon\appbar.question.png" archivePath="Icon\appbar.question.png" lastWriteTime="11/27/2013 10:21:36 PM" />
+  <file source="D:\l505gs\win p 7.5 SDK\QR Navigator\QR Navigator\Icon\appbar.refresh.rest.png" archivePath="Icon\appbar.refresh.rest.png" lastWriteTime="11/27/2013 10:21:36 PM" />
+  <file source="D:\l505gs\win p 7.5 SDK\QR Navigator\QR Navigator\Icon\appbar.stock.up.png" archivePath="Icon\appbar.stock.up.png" lastWriteTime="11/27/2013 10:21:36 PM" />
+  <file source="D:\l505gs\win p 7.5 SDK\QR Navigator\QR Navigator\Icon\bluebookmark.png" archivePath="Icon\bluebookmark.png" lastWriteTime="11/27/2013 10:21:36 PM" />
+  <file source="D:\l505gs\win p 7.5 SDK\QR Navigator\QR Navigator\Icon\book.contact.png" archivePath="Icon\book.contact.png" lastWriteTime="11/27/2013 10:21:36 PM" />
+  <file source="D:\l505gs\win p 7.5 SDK\QR Navigator\QR Navigator\Icon\Bookmark-New.png" archivePath="Icon\Bookmark-New.png" lastWriteTime="11/30/2013 5:33:19 PM" />
+  <file source="D:\l505gs\win p 7.5 SDK\QR Navigator\QR Navigator\Icon\Bookmark.png" archivePath="Icon\Bookmark.png" lastWriteTime="11/30/2013 5:31:29 PM" />
+  <file source="D:\l505gs\win p 7.5 SDK\QR Navigator\QR Navigator\Icon\Contact.png" archivePath="Icon\Contact.png" lastWriteTime="11/27/2013 11:09:53 PM" />
+  <file source="D:\l505gs\win p 7.5 SDK\QR Navigator\QR Navigator\Icon\DeleteRed.png" archivePath="Icon\DeleteRed.png" lastWriteTime="4/18/2014 11:52:11 PM" />
+  <file source="D:\l505gs\win p 7.5 SDK\QR Navigator\QR Navigator\Icon\eadability.png" archivePath="Icon\eadability.png" lastWriteTime="11/27/2013 11:57:56 PM" />
+  <file source="D:\l505gs\win p 7.5 SDK\QR Navigator\QR Navigator\Icon\Ecology-01.png" archivePath="Icon\Ecology-01.png" lastWriteTime="11/27/2013 10:21:36 PM" />
+  <file source="D:\l505gs\win p 7.5 SDK\QR Navigator\QR Navigator\Icon\Google.png" archivePath="Icon\Google.png" lastWriteTime="11/27/2013 11:09:53 PM" />
+  <file source="D:\l505gs\win p 7.5 SDK\QR Navigator\QR Navigator\Icon\Internet Explorer.png" archivePath="Icon\Internet Explorer.png" lastWriteTime="11/27/2013 10:45:32 PM" />
+  <file source="D:\l505gs\win p 7.5 SDK\QR Navigator\QR Navigator\Icon\Messaging.png" archivePath="Icon\Messaging.png" lastWriteTime="11/27/2013 10:30:53 PM" />
+  <file source="D:\l505gs\win p 7.5 SDK\QR Navigator\QR Navigator\Icon\readability-256.png" archivePath="Icon\readability-256.png" lastWriteTime="11/27/2013 10:21:36 PM" />
+  <file source="D:\l505gs\win p 7.5 SDK\QR Navigator\QR Navigator\Icon\readability.png" archivePath="Icon\readability.png" lastWriteTime="11/27/2013 10:21:36 PM" />
+  <file source="D:\l505gs\win p 7.5 SDK\QR Navigator\QR Navigator\Icon\Share-03.png" archivePath="Icon\Share-03.png" lastWriteTime="11/27/2013 10:30:13 PM" />
+  <file source="D:\l505gs\win p 7.5 SDK\QR Navigator\QR Navigator\Icon\share.png" archivePath="Icon\share.png" lastWriteTime="11/27/2013 11:57:21 PM" />
+  <file source="D:\l505gs\win p 7.5 SDK\QR Navigator\QR Navigator\Icon\Student-Read-01.png" archivePath="Icon\Student-Read-01.png" lastWriteTime="11/27/2013 10:21:36 PM" />
+  <file source="D:\l505gs\win p 7.5 SDK\QR Navigator\QR Navigator\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="6/11/2014 12:10:23 AM" />
+  <file source="D:\l505gs\win p 7.5 SDK\QR Navigator\QR Navigator\Bin\Debug\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="11/30/2013 4:07:22 PM" />
+  <file source="D:\l505gs\win p 7.5 SDK\QR Navigator\QR Navigator\Bin\Debug\Background.png" archivePath="Background.png" lastWriteTime="11/30/2013 4:07:59 PM" />
+</xapCache>

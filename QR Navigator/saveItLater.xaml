@@ -1,0 +1,70 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="QR_Navigator.saveItLater"
+     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+SupportedOrientations="PortraitOrLandscape"  Orientation="Portrait" 
+    mc:Ignorable="d" d:DesignHeight="696" d:DesignWidth="480"
+    shell:SystemTray.IsVisible="False"
+    xmlns:toolkit="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls.Toolkit">
+
+    <!--LayoutRoot is the root grid where all page content is placed.-->
+    <Grid x:Name="LayoutRoot" Background="White" ScrollViewer.VerticalScrollBarVisibility="Auto"  Margin="0,0,0,-68" VerticalAlignment="Top" Height="764">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title.-->
+        <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,17,0,5"  ScrollViewer.VerticalScrollBarVisibility="Auto" Background="White" >
+            <TextBlock 
+                x:Name="ApplicationTitle" 
+                Text="QR Navigator "  Foreground="Gray" 
+                FontSize="15"
+                Style="{StaticResource PhoneTextNormalStyle}"/>
+            <TextBlock 
+                x:Name="PageTitle" 
+                Text="Save It Later" 
+                Margin="9,-7,0,0" 
+                FontSize="45" Foreground="Gray" 
+                Style="{StaticResource PhoneTextTitle1Style}"/>
+            <Image Width="32" Height="32" Source="images/social_rss_box_orange.png" Margin="11,0,425,0" Tag="Help" RenderTransformOrigin="0.307,1.948"/>
+
+        </StackPanel>
+
+        <!--ContentPanel - place additional content here.-->
+        <StackPanel x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,2" Background="White"  ScrollViewer.VerticalScrollBarVisibility="Auto"  >
+            <TextBlock Text="Title" Margin="13,0,7,0" Foreground="Gray" />
+            <TextBox x:Name="txtTitle" Foreground="Gray" Background="WhiteSmoke" BorderBrush="LightGray"  />
+            <TextBlock Text="QR Content" Margin="16,0,229,0" Foreground="Gray" />
+            <TextBox x:Name="txtContent"  Foreground="Gray" Background="WhiteSmoke" BorderBrush="LightGray"   />
+
+
+        </StackPanel>
+    </Grid>
+
+    <phone:PhoneApplicationPage.ApplicationBar >
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True" BackgroundColor="Gray">
+
+            <shell:ApplicationBarIconButton 
+                x:Name="appBarOkButton" 
+                IconUri="/icon/appbar.check.rest.png" 
+                Text="ok" 
+                Click="appBarOkButton_Click"/>
+
+            <shell:ApplicationBarIconButton 
+                x:Name="appBarCancelButton" 
+                IconUri="/icon/appbar.cancel.rest.png" 
+                Text="cancel" 
+                Click="appBarCancelButton_Click" />
+
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>
+
+</phone:PhoneApplicationPage>
